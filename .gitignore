@@ -1,7 +1,6 @@
 .ipynb_checkpoints
 .idea
 data.ipynb
-assets
 covidvenv
 venv
 test.xlsx
@@ -13,3 +12,5 @@ test.csv
 test2.py
 data.xlsx
 data.txt
+api.json
+service_account.json
