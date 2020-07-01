@@ -23,14 +23,15 @@ should be a useful guide to go through this notebook.
 # Website vs Scraped Data as a DataFrame
 <table style="width:100%">
   <tr>
-    <th><img src="assets/images/chrome.png" width=400></th>
+    <th><img src="assets/images/chrome.png" width=100% height=auto></th>
   </tr>
 </table>
 <table style="width:100%">
   <tr>
-    <th><img src="assets/images/scraped.png" width=400></th>
+    <th><img src="assets/images/scraped.png" width=100% height=auto</th>
   </tr>
 </table>
+
 # Conclusion
 
 Personally I am using this idea of scrapping
