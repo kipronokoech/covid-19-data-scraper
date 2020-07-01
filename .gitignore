@@ -1,0 +1,15 @@
+.ipynb_checkpoints
+.idea
+data.ipynb
+assets
+covidvenv
+venv
+test.xlsx
+test.py
+old.py
+scraper.ipynb
+__pycache__
+test.csv
+test2.py
+data.xlsx
+data.txt
