@@ -21,7 +21,16 @@ the data we scrapped in (2) into Google Sheet.
 [GSpread documentation](https://gspread.readthedocs.io/en/latest/)
 should be a useful guide to go through this notebook.
 # Website vs Scraped Data as a DataFrame
-
+<table style="width:100%">
+  <tr>
+    <th><img src="assets/images/chrome.png" width=400></th>
+  </tr>
+</table>
+<table style="width:100%">
+  <tr>
+    <th><img src="assets/images/scraped.png" width=400></th>
+  </tr>
+</table>
 # Conclusion
 
 Personally I am using this idea of scrapping
@@ -30,3 +39,5 @@ Google Studio. This is made possible by periodic
  scrapping and deployment (every 15 minutes). 
  
 [Here](https://datastudio.google.com/open/1wZ1ismEZwcQCrUJq2NsPsqHrdx1EM0ak?usp=sharing) is the dashboard.
+
+Stay Safe!
