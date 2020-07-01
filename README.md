@@ -1,5 +1,5 @@
 # Covid-19-data-scraper
-In this project we will scrape covid data from Worldometer website and deploy the same data into Google sheet.
+In this project we will scrape covid data from [Worldometer](https://www.worldometers.info/coronavirus/) website and deploy the same data into Google sheet.
 
 Everytime you run the code you will get the lastest
 COVID-19 data from [Worldometer](https://www.worldometers.info/coronavirus/).
@@ -34,11 +34,13 @@ should be a useful guide to go through this notebook.
 
 # Conclusion
 
-Personally I am using this idea of scrapping
+Personally, I am using this idea of scrapping
 this particular site to maintain a dashboard in
 Google Studio. This is made possible by periodic
  scrapping and deployment (every 15 minutes). 
  
 [Here](https://datastudio.google.com/open/1wZ1ismEZwcQCrUJq2NsPsqHrdx1EM0ak?usp=sharing) is the dashboard.
+
+Useful link about crontab in Linux: [link](https://opensource.com/article/17/11/how-use-cron-linux)
 
 Stay Safe!
