@@ -23,7 +23,7 @@ should be a useful guide to go through this notebook.
 # Website vs Scraped Data as a DataFrame
 <table style="width:100%">
   <tr>
-    <th><img src="assets/images/chrome.png" width=100% height=auto></th>
+    <th><img src="assets/images/worldometer.png" width=100% height=auto></th>
   </tr>
 </table>
 <table style="width:100%">
