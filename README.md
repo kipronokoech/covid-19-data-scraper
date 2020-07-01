@@ -37,7 +37,7 @@ should be a useful guide to go through this notebook.
 Personally, I am using this idea of scrapping
 this particular site to maintain a dashboard in
 Google Studio. This is made possible by periodic
- scrapping and deployment (every 15 minutes). 
+ scrapping and deployment (every 15 minutes) using crontab scheduler.
  
 [Here](https://datastudio.google.com/open/1wZ1ismEZwcQCrUJq2NsPsqHrdx1EM0ak?usp=sharing) is the dashboard.
 
